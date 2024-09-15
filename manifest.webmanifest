@@ -1,0 +1,22 @@
+{
+"name": "ADHD HELPER Speech01", 
+"scope": "/", 
+"start_url": "index.html", 
+"theme_color": "#000000", 
+"background_color": "#000000", 
+"short_name": "Speech01", 
+"author": "MarkScholes", 
+"lang": "en", 
+"version": "1.0", 
+"display": "standalone", 
+"orientation": "portrait", 
+"icons": [{
+"src": "img/default-icon.png", 
+"sizes": "512x512", 
+"purpose": "any"
+},{
+"src": "img/default-icon.png", 
+"sizes": "512x512", 
+"purpose": "maskable"
+}]
+}
